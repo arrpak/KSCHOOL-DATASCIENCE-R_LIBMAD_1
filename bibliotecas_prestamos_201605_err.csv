@@ -1,0 +1,6 @@
+line_number,msg,prbarc,prprsu,prcolp,prcocp,prlebi,prlesu,pradul,prfpre,prcocs,tititu,tiauto
+2009,"Expected 11 columns, found 12 columns",1400001201,BCDIR ,USU  ,MB   ,BPM   ,BCDIR ,1,05/04/16,T    ,"Maigret y el falso culpable ; : Maigret y el gigolo"" "," La a""","Simenon, Georges1903-1989"
+24695,"Expected 11 columns, found 12 columns",100601890,BCDIM ,USU  ,OA   ,BPM   ,BCDIM ,1,01/04/16,S    ,"Symphony nº 2 To october"" op. 14 "," : Symphony nº3 ""The firs""","Shostakovich, Dmitrîî Dmitrievich1906-1975"
+38896,"Expected 11 columns, found 10 columns",101208509,BCDIL ,USU  ,MB   ,BPM   ,BCDIW ,1,18/04/16,T    ,"No, no hace calor aquí : todo lo que un marido debe saber ("";Roth, Dick"""
+89679,"Expected 11 columns, found 12 columns",101854094,BCDI4 ,USU  ,OA   ,BPM   ,BCDI4 ,1,02/04/16,S    ,"Symphonies nos. 8 Unfinished"""," and 9 ""The Great"" / Schubert""","Schubert, Franz1797-1828"
+106620,"Expected 11 columns, found 12 columns",1400016967,BCDIG ,USU  ,OA   ,BPM   ,BCDIG ,1,08/04/16,S    ,"Sinfonía nº 43 en mi bemol mayor, hob. I:43 Mercurio"""," Sinf""","Haydn, Joseph1732-1809"
